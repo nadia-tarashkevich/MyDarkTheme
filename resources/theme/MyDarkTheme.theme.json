@@ -1,0 +1,12 @@
+{
+  "name": "MyDarkTheme",
+  "author": "YourCompany",
+  "dark": true,
+  "parentTheme": "Dark",
+  "colors": {
+    "primaryRed": "#821010"
+  },
+  "ui": {
+    "Button.background": "primaryRed"
+  }
+}
